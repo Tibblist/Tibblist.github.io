@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/static/js/main.66f8d796.chunk.js",
+    "main.js.map": "/static/js/main.66f8d796.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e7533698.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e7533698.js.map",
+    "static/js/2.89cebbde.chunk.js": "/static/js/2.89cebbde.chunk.js",
+    "static/js/2.89cebbde.chunk.js.map": "/static/js/2.89cebbde.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6f7c8fe47192cfa5014cfa6f6c779952.js": "/precache-manifest.6f7c8fe47192cfa5014cfa6f6c779952.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/forest.jpg": "/static/media/forest.c354afa5.jpg",
+    "static/media/mountain.jpg": "/static/media/mountain.c6c36a39.jpg",
+    "static/media/vid1.jpg": "/static/media/vid1.f4e27617.jpg",
+    "static/media/vid2.jpg": "/static/media/vid2.00a485fe.jpg",
+    "static/media/vid3.jpg": "/static/media/vid3.627c7c98.jpg",
+    "static/media/watersparkler.jpg": "/static/media/watersparkler.4b799473.jpg"
+  }
+}
